@@ -17,14 +17,6 @@ npm start
 
 ## Author
 
-✔ Eka Prasetia 🤵
-
-
 Project BY [Surya kausthub](https://github.com/Suryakausthub/) 
 
-✔ Community
 
-I am author for two communities in Indonesia
-
-- GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
-- RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
