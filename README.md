@@ -9,7 +9,7 @@ Simple to track your expense that compared with your income, you can insert posi
 ## Usage
 
 ```
-git clone https://github.com/ekaone/Expense-Tracker.git
+git clone https://github.com/Suryakausthub/Finance/
 cd Expense-Tracker
 npm install
 npm start
